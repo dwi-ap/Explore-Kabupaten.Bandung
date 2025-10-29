@@ -1,0 +1,3 @@
+- [x] Tambahkan bagian Galeri Foto di landing_pariwisata.html setelah bagian Destinasi
+- [x] Tambahkan CSS untuk galeri di style_css.css
+- [x] Verifikasi gambar ditampilkan dengan benar
